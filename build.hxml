@@ -1,0 +1,4 @@
+-cpp bin/cpp
+-lib ldtk-haxe-api
+-lib deepnightLibs
+-main Main
