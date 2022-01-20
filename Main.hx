@@ -1,5 +1,3 @@
-package;
-
 class Main {
 	static public function main():Void {
 		var map = new WorldMap();
